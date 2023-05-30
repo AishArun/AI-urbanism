@@ -100,7 +100,7 @@ ThermoVision is a predictive tool that leverages machine learning to gauge therm
 
 ### Methodology
 
-![Methodology](assets/methodology.svg)
+![Methodology](assets/Methodology - AI urbanism.svg)
 
 
 <!-- GETTING STARTED -->
