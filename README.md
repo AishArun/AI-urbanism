@@ -13,7 +13,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/GITHUBNAME/PROJECTNAME">
+  <a href="https://github.com/AishArun/PROJECTNAME">
     <img src="assets/logo.svg" alt="Logo" width="150">
   </a>
 
@@ -22,11 +22,11 @@
   <p align="center" style="font-weight: bold;">
     IAAC: AI in Urbanism 2022-23
     <br />
-    <a href="https://colab.research.google.com/github/GITHUBNAME/PROJECTNAME/blob/main/src/NOTEBOOKNAME.ipynb">View Demo</a>
+    <a href="https://colab.research.google.com/github/AishArun/PROJECTNAME/blob/main/src/NOTEBOOKNAME.ipynb">View Demo</a>
     ·
-    <a href="https://github.com/GITHUBNAME/PROJECTNAME/issues">Report Bug</a>
+    <a href="https://github.com/AishArun/PROJECTNAME/issues">Report Bug</a>
     ·
-    <a href="https://github.com/GITHUBNAME/PROJECTNAME/issues">Request Feature</a>
+    <a href="https://github.com/AishArun/PROJECTNAME/issues">Request Feature</a>
   </p>
 </div>
 
@@ -72,20 +72,13 @@
 
 Project developed under the course AI in Urbanism 2022-23 in [IAAC](https://iaac.net/).
 
-__Description:__ one sentence description of the project containing why, what, how (where and for whom) \
- __Problem statement:__ which problem the project solves, _why_ you are doing it. \
- __Idea:__ _what_ you are doing to solve the problem \
- __Solution:__ _how_ you are solving the problem, the method \
- __Place:__ _where_ \
- __Beneficiaries:__ the users of the project, _who_ will benefit from it.
+ThermoVision: Predicting Urban Comfort Zones
 
-
-
-
+ThermoVision is a predictive tool intended to simplify the complex correlation between the built environment and thermal comfort. It utilizes SegFormer, a machine learning model for semantic segmentation, to extract features from Barcelona's street view images. It then uses this data to train the Random Forest Regression model to predict the thermal comfort at various locations, and offers insights to urban planners, architects, environmental researchers, and policymakers to help understand and analyses these thermal landscapes.
 
 ### Intro
 
-A longer description of the project, not more than 150 words.
+ThermoVision is a predictive tool that leverages machine learning to gauge thermal comfort in urban landscapes. Urban areas often struggle with uneven thermal comfort due to varied building topologies , building  materials and vegetation and  understanding these thermal landscapes is challenging due to their complexity. ThermoVision bridges the gap between visual data and thermal comfort, allowing users to understand the impact of the built environment on these thermal landscapes. Through the use of SegFormer, a transformer-based model for semantic segmentation,  features of the built environment are extracted from 360 degree street level images, the Random Forest Regression Model, is trained and tested to predict thermal comfort in different locations. For this project, all training datasets are collected from Barcelona, Spain. The beneficiaries of this project include urban planners, architects, environmental researchers, and policymakers who are seeking to create more comfortable and sustainable urban environments
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -98,16 +91,8 @@ A longer description of the project, not more than 150 words.
 * [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
 * [sklearn](https://scikit-learn.org/stable/)
 * [HuggingFace](https://huggingface.co/)
-* [Pytorch](https://pytorch.org/)
-* [Tensorflow](https://www.tensorflow.org/)
 * [Mapbox](https://www.mapbox.com/)
 * [GoogleStreetMaps](https://mapsplatform.google.com/)
-* [Yelp](https://www.yelp.se/stockholm)
-* [OpenAI API](https://openai.com/product)
-* [Midjourney](https://midjourney.com/)
-* [Stable Diffusion](https://stability.ai/blog/stable-diffusion-public-release)
-* [Flask](https://flask.palletsprojects.com/en/2.3.x/)
-* [FastAPI](https://fastapi.tiangolo.com/)
 * [Colab](https://colab.research.google.com/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
