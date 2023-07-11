@@ -119,30 +119,21 @@ None
 
 ### Usage
 
-To use the project follow these steps:\
-_Describe how to use your project (e.g. how to import the csv file you used, which cells to run to see which output, which packages to install, where to create an account (e.g. a token for chatgpt ?))_
-* Step 1
-* Step 2
+To use the project, run the python notebook in the src folder. 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Challenges
 
-While working on the project the following challenges were encountered:
-
-_Describe which challenges you faced during the project (e.g. there's an issue with missing public facilities data in Beirut, instability of image generation from prompts etc.)_ 
-* challenge 1
-* challenge 2
+While working on the project the following challenges were encountered : 
+- Obtaining well stitched 360 degree street views
+- Neatly segmented images and labelling
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Future work
 
-_Describe the potential improvements or developments of the project (e.g. deploy the project, add more cities, add support for some feature)._
-
-- [x] step 1
-- [ ] step 2
-- [ ] step 3
+- Ongoing research is being done to deploy the code as an app and predict thermal comfort in various other locations.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -157,7 +148,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 ## Contact
 
-AUTHORNAME - [@AUTHORNAME](https://github.com/AUTHORNAME) - [e-mail](mailto:samplemail@gmail.com) - [LinkedIn][linkedin-url]
+AishArun - [@AishArun](https://github.com/AishArun) - [e-mail](aishwarya.arun@students.iaac.net)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -170,14 +161,9 @@ AUTHORNAME - [@AUTHORNAME](https://github.com/AUTHORNAME) - [e-mail](mailto:samp
 <div style="width:100;" width=100%>
     <div>
         <a href="https://iaac.net">
-            <img src="https://images.ctfassets.net/81iqaqpfd8fy/3r4flvP8Z26WmkMwAEWEco/870554ed7577541c5f3bc04942a47b95/78745131.jpg?w=1200&h=1200&fm=jpg&fit=fill" height=200px>
+            <img src="https://github.com/AishArun/AI-urbanism/blob/a16c9f76fb609cc7a82834a88cd6f5262b6bfbb8/assets/snaptrude.jpg" height=200px>
         </a>
-      <a href="https://iaac.net">
-            <img src="https://images.ctfassets.net/81iqaqpfd8fy/3r4flvP8Z26WmkMwAEWEco/870554ed7577541c5f3bc04942a47b95/78745131.jpg?w=1200&h=1200&fm=jpg&fit=fill" height=200px>
-        </a>
-      <a href="https://iaac.net">
-            <img src="https://images.ctfassets.net/81iqaqpfd8fy/3r4flvP8Z26WmkMwAEWEco/870554ed7577541c5f3bc04942a47b95/78745131.jpg?w=1200&h=1200&fm=jpg&fit=fill" height=200px>
-        </a>
+     
     </div>
   <h3>Supervisors</h3>
   <br />
